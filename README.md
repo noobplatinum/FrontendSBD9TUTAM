@@ -11,6 +11,7 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
+```mermaid
 gantt
     title Peta Jalan Hilirisasi Companion
     dateFormat YYYY-MM
@@ -30,3 +31,4 @@ gantt
         Q2: Integrasi & pilot               :q2, 2026-07, 2026-10
         Q3: Validasi & hilirisasi           :q3, 2026-10, 2026-12
         Peluncuran komersial                :milestone, launch, 2026-09, 0d
+```
